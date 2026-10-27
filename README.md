@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Carpool to UBC with the same small group every week.</b><br>
-  Built for HelloHacks 2026.
+  Hello Hacks 2026 3rd Overall, 1st Financial Innovation, HM CloudAdvisors
 </p>
 
 <p align="center">
